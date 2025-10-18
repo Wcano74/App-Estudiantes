@@ -70,7 +70,7 @@ Aplicación Android nativa desarrollada para el **Taller de Desarrollo Full-Stac
 <tr>
 <td width="50%">
 
-### 🎨 **Interfaz Moderna**
+### **Interfaz Moderna**
 - ✅ UI declarativa con Jetpack Compose
 - ✅ Material Design 3
 - ✅ Animaciones fluidas
@@ -79,7 +79,7 @@ Aplicación Android nativa desarrollada para el **Taller de Desarrollo Full-Stac
 </td>
 <td width="50%">
 
-### 🏗️ **Arquitectura Sólida**
+### **Arquitectura Sólida**
 - ✅ Patrón MVVM
 - ✅ Repository Pattern
 - ✅ Separación de capas
@@ -91,7 +91,7 @@ Aplicación Android nativa desarrollada para el **Taller de Desarrollo Full-Stac
 <tr>
 <td width="50%">
 
-### 🌐 **Networking**
+### **Networking**
 - ✅ Retrofit + OkHttp
 - ✅ Coroutines para async
 - ✅ Manejo de errores robusto
@@ -101,7 +101,7 @@ Aplicación Android nativa desarrollada para el **Taller de Desarrollo Full-Stac
 </td>
 <td width="50%">
 
-### 📊 **Gestión de Estado**
+### **Gestión de Estado**
 - ✅ StateFlow reactivo
 - ✅ LiveData para UI
 - ✅ Estados de carga
@@ -181,10 +181,10 @@ class MainActivity : ComponentActivity() {
 
 ```mermaid
 graph TD
-    A[📱 UI Layer<br/>Jetpack Compose] --> B[🎯 ViewModel Layer<br/>StateFlow]
-    B --> C[📦 Repository Layer<br/>Data Logic]
-    C --> D[🌐 Network Layer<br/>Retrofit + OkHttp]
-    D --> E[☁️ API REST<br/>ASP.NET Core]
+    A[ UI Layer<br/>Jetpack Compose] --> B[ ViewModel Layer<br/>StateFlow]
+    B --> C[ Repository Layer<br/>Data Logic]
+    C --> D[ Network Layer<br/>Retrofit + OkHttp]
+    D --> E[ API REST<br/>ASP.NET Core]
     
     style A fill:#4285F4,stroke:#1967D2,stroke-width:3px,color:#fff
     style B fill:#7F52FF,stroke:#6200EA,stroke-width:3px,color:#fff
@@ -516,7 +516,7 @@ val usuarios by viewModel.usuarios.collectAsState()
 
 ---
 
-## 📝 Changelog
+## hangelog
 
 ### Version 1.0.0 (2024)
 -  Implementación inicial
@@ -597,7 +597,7 @@ Este proyecto es parte del **Taller de Desarrollo Full-Stack**
 
 <div align="center">
 
-### 🌟 Si este proyecto te fue útil, ¡dale una estrella! ⭐
+### Si este proyecto te fue útil, ¡dale una estrella! ⭐
 
 **Kotlin & Jetpack Compose**
 
