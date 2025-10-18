@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 App Estudiantes - Android
+# App Estudiantes UMG - Android
 
 ### Aplicación móvil moderna con Kotlin & Jetpack Compose
 
@@ -43,10 +43,26 @@ Aplicación Android nativa desarrollada para el **Taller de Desarrollo Full-Stac
 
 > **Parte del ecosistema Full-Stack:** Esta app se conecta con el [Backend API REST](https://github.com/Wcano74/ApiEstudiantes) para demostrar una arquitectura completa cliente-servidor.
 
-<img width="776" height="1600" alt="image" src="https://github.com/user-attachments/assets/555f8e0e-8f65-40a2-936f-91f4696c6071" />
-<img width="776" height="1600" alt="image" src="https://github.com/user-attachments/assets/67f8705c-09a8-49d5-83dd-197d4149ba5a" />
-
 ---
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/555f8e0e-8f65-40a2-936f-91f4696c6071" width="280" alt="Lista de Usuarios"/>
+      <br/>
+      <sub><b>Lista de Usuarios</b></sub>
+      <br/>
+      <sub>Pantalla principal con lista completa</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/67f8705c-09a8-49d5-83dd-197d4149ba5a" width="280" alt="Agregar Usuario"/>
+      <br/>
+      <sub><b>Agregar Usuario</b></sub>
+      <br/>
+      <sub>Diálogo para crear nuevo usuario</sub>
+    </td>
+  </tr>
+</table>
 
 ## Características
 
@@ -98,26 +114,13 @@ Aplicación Android nativa desarrollada para el **Taller de Desarrollo Full-Stac
 
 ---
 
-## 📱 Capturas
 
-<div align="center">
-
-| Lista de Usuarios | Agregar Usuario | Estado de Carga |
-|:-:|:-:|:-:|
-| <img src="screenshots/main_screen.png" width="250"/> | <img src="screenshots/add_dialog.png" width="250"/> | <img src="screenshots/loading.png" width="250"/> |
-
-</div>
-
-
-
----
-
-## 🚀 Instalación
+## Instalación
 
 ### Prerrequisitos
 
 ```bash
-📦 Android Studio Hedgehog (2023.1.1+)
+Android Studio Hedgehog (2023.1.1+)
 ☕ JDK 17 o superior
 Android SDK API 24+
 Dispositivo físico o Emulador
@@ -126,7 +129,7 @@ Dispositivo físico o Emulador
 ### Pasos de instalación
 
 <details>
-<summary><b>1️⃣ Clonar el repositorio</b></summary>
+<summary><b> Clonar el repositorio</b></summary>
 
 ```bash
 git clone https://github.com/Wcano74/App-Estudiantes.git
@@ -559,11 +562,10 @@ Este proyecto es parte del **Taller de Desarrollo Full-Stack**
 
 <div align="center">
 
-**[Wilson Cano]**
+**Wilson Cano**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Wcano74-181717?style=for-the-badge&logo=github)](https://github.com/Wcano74)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilson.canopinto@gmail.com)
 
 </div>
 
